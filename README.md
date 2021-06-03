@@ -6,18 +6,12 @@
 <p>
   This Project is just a basic calculator.I create this project using React js and css for my learining purposes.
 </p>
-<!-- TABLE OF CONTENTS -->
-
-## Table of Contents
-
-- [How to run](#how-to-run)
-- [Contact](#contact)
 
 <!-- HOW TO RUN -->
 
 ## How to run
 
-install all packages and get start using npm start/ yarn start
+install all packages by 'npm Install' and get all dependencies form package.json file,then start this pproject using 'npm start'/ 'yarn start'.
 
 <!-- CONTACT -->
 
