@@ -1,7 +1,7 @@
 <!-- PROJECT Title -->
 <br />
 <p align="center">
-  <h3 align="center"><a href="https://github.com/ahmedsgit/React-Calculator">React Calculator</a></h3>
+  <h3 align="center"><a href="https://github.com/ahmedsgit/React-Calculator/tree/master">React Calculator</a></h3>
 </p>
 <p>
   This Project is just a basic calculator.I create this project using React js and css for my learining purposes.
